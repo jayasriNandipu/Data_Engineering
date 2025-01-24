@@ -1,0 +1,7 @@
+understanding power bi administrator tools
+what is power bi administration
+what is usage metrics in power bi
+how to monitor usage metrics in new work sheets in power bi
+users, premium per user and audit logs in power bi
+tenant settings in power bi
+capacity, embedded,  workspace, visualisation in power bi 
