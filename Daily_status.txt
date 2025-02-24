@@ -1,0 +1,108 @@
+status:--04-02-2025: ---
+1.tableau actions -- in progress
+2.python practice(list, tuple, set, multiple dictionaries and slicing)
+
+
+status:--05-02-2025:--
+1.sql queries(insert into values, table creation, add column, column rename
+table rename , insert into values in a single column, delete rows, delete values, delete table, data retrieve, where condition(And, OR)
+joins(left, inner join), in condition, not in condition, between, drop column, group by
+aggregations(Sum, Avg, Count, Distinct, min, Max), order by, having, is null condition, is not null condition, like, sub queries, equal to and not equals to ) -- revision completed.
+
+2. tableau calculations-- in progress.
+
+
+status:--10-02-2025--
+tableau string calculations completed.
+
+status:--11-02-2025
+1.postgresql basic commands, all PostgreSQL commands and (users, groups, rules in oracle)
+2.basic introduction of functions and stored procedure in oracle.
+3.project task(images to text)
+
+status:--12-01-2025
+1.oracle videos (5 videos -- completed)
+1.Tableau date calculations -- complete
+
+Status:--19-02-2025
+1.Tableau LOD Calculations -- completed.
+2.Oracle 14/18 (14 videos completed.)
+
+
+status:--
+1.practice python and sql
+2.converting image to text in python 
+3.project task(sql code to creating procedures in red shift)
+
+
+status:--17-02-2025
+1.tableau logical functions
+2.python merge explanation to shamshad and bujji garu
+3.how to join two tables using pivot -- sampkle code -- completed.
+ (a)how to join two tables using pivot -- task -- in progress.
+
+
+status:--18-02-2025 
+1.Tableau Aggregate calculations, Logical functions, null functions -- completed.
+2.Tableau LOD Expressions -- in progress.
+3.python group by explanation to shamshad garu.
+
+
+Status:--19-02-2025
+1.Tableau LOD Calculations (table calculations)-- inprogress.
+2.Oracle 14/18 (14 videos completed.)
+
+status:--21-02-2025
+1.python and sql practice.
+
+
+
+status:--24-02-2025
+1.Tableau charts(bar, line, bump chat and spark line chat)-- completed.
+2.data iku project connected.
+3.Amazon redshift --introduction
+
+
+
+
+status:--20-02-2025
+1.Oracle 17/18 videos completed.
+2.Tableau table calculations -- completed
+Tableau chats -- in progress
+3.Sqp practice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
